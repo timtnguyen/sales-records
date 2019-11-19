@@ -41,14 +41,3 @@ class App extends React.Component {
 }
 
 export default App;
-
-//{
-//    apiKey: "AIzaSyA1OzGe-EZ7WB3nkvPmnz0teDB7kLpa7L0",
-//   authDomain: "sales-data-cdbe8.firebaseapp.com",
-//   databaseURL: "https://sales-data-cdbe8.firebaseio.com",
-//  projectId: "sales-data-cdbe8",
-//  storageBucket: "sales-data-cdbe8.appspot.com",
-//  messagingSenderId: "303873876509",
-//  appId: "1:303873876509:web:45ebaf67dec732f9039cf4",
-// measurementId: "G-N7LKCBNHSF"
-//};
